@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Babar</h1>
-<h3 align="center">A Passionate Full-Stack developer from India</h3>
+<h3 align="center">I'm a passionate software developer with a strong focus on full-stack development. I enjoy creating and maintaining web applications using modern technologies.</h3>
     <img align="right" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952bjkfo7rcwrkd7lzkd78an7ppoz3abuvob2l8x25b&ep=v_gifs_search&rid=giphy.gif&ct=g" alt="coding" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashbabar&label=Profile%20views&color=0e75b6&style=flat" alt="akashbabar" /> </p>
