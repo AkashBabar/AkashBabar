@@ -2,10 +2,16 @@
 <h3 align="center">🚀 Java Full-Stack Developer | Passionate about building scalable and high-performance web applications</h3>
 
 <p align="center">
-  As a Java Full-Stack Developer, I specialize in <b>Java, Spring Boot, React, and Microservices</b>.  
-  I enjoy designing robust architectures and writing clean, efficient code that powers seamless user experiences.  
-  I love solving complex coding challenges and developing enterprise-grade applications.  
-  Let’s create impactful solutions together!  
+  As a Java Full-Stack Developer, I specialize in <b>Java, Spring Boot, React, and Microservices</b>.<br>
+  I enjoy designing robust architectures and writing clean, efficient code that powers seamless user experiences.<br>
+  I love solving complex coding challenges and developing enterprise-grade applications.<br>
+  Let’s create impactful solutions together!
+</p>
+
+<p align="center">
+  <a href="https://akashbabar.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-akashbabar.dev-0A66C2?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio Badge"/>
+  </a>
 </p>
 
 ---
@@ -30,13 +36,10 @@
   </tr>
 </table>
 
-
-
-
-
 ---
 
-## 🌍 Connect with Me:
+## 🌍 Connect with Me
+
 <p align="center">
   <a href="https://twitter.com/mr_ak96k" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/akash-babar-5b64b9271" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
@@ -45,7 +48,8 @@
 
 ---
 
-## 🚀 Languages & Tools:
+## 🚀 Languages & Tools
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
@@ -67,15 +71,27 @@
 
 ---
 
-## 💡 Featured Projects:
-- 🛒 [**E-Commerce Platform**](https://github.com/your-repo) - Full-stack e-commerce application using Java, Spring Boot, and React.
-- 🎈 [**Balloon Game**](https://github.com/your-repo) - Interactive JavaScript-based game with physics-driven balloon mechanics.
+## 💡 Featured Projects
 
-🔗 **More Projects:** [GitHub Repositories](https://github.com/akashbabar?tab=repositories)
+- 🛒 [**Job-Portal-System**](https://github.com/AkashBabar/Job-Portal-System.git)  
+  A full-stack job portal web application that streamlines job postings, applications, and user management for Students, Companies, and Admins. Built using Spring Boot, Hibernate, JSP/Servlet, and PostgreSQL, 
+  with secure JWT-based authentication and role-based access.
+
+- 🎈 [**Load-Management-API**](https://github.com/AkashBabar/Load-Management-API.git)  
+  The Load Management System is a Spring Boot-based REST API that enables users to manage loads efficiently. It provides CRUD operations for load management with a PostgreSQL database.
+
+- 🧾 [**Training-Center-Registry-MVP**](https://github.com/AkashBabar/Training-Center-Registry-MVP.git)  
+  This is an MVP for a Training Center Registry that manages government-funded training centers. The application is built using Spring Boot and MySQL and follows best practices for API development.
+
+- 💼 [**MCA-Project-ExpenseTrackingPlatform**](https://github.com/AkashBabar/MCA-Project-ExpenseTrackingPlatform.git)  
+  An expense tracking platform built with the MERN stack (MongoDB, Express, React, Node.js).
+
+🔗 **More Projects:** [Explore My GitHub Repositories](https://github.com/akashbabar?tab=repositories)
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akashbabar&show_icons=true&theme=react" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashbabar&theme=react" alt="GitHub Streak" />
@@ -87,7 +103,8 @@
 
 ---
 
-## 🔥 GitHub Activity:
+## 🔥 GitHub Activity
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashbabar&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
